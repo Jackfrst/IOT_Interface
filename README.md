@@ -1,6 +1,6 @@
 # IOT INTERFACE
 
-A project for assingment
+A simple IoT interface with Flutter allows you to create a user-friendly application that interacts with IoT devices. This interface enables users to monitor device information, receive real-time data, and control IoT devices remotely.
 
 ## Getting Started
 
